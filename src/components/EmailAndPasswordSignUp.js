@@ -1,4 +1,5 @@
 /** @jsx jsx */
+/** @jsxFrag React.Fragment */
 import { jsx, css } from "@emotion/core";
 import React, { useState } from "react";
 import { emailAndPasswordSignUp } from "../firebase/auth";
